@@ -1,5 +1,6 @@
 import Home from './Components/Home';
 import Navigation from './Components/Navigation';
+import emmanuelImage from './Assets/emmanuelAyodele.png';
 import './App.css';
 
 const App = () => {
